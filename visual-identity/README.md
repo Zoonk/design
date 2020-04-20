@@ -6,7 +6,11 @@ discuss improvements or for making suggestions.
 
 ## Logo
 
-![logo](logo.svg)
+<img src="logo/logo.svg" width="250" />
+
+## Icon
+
+<img src="icon/icon.svg" width="250" />
 
 ## Colors
 
