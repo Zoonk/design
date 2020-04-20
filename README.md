@@ -4,7 +4,7 @@ This repository contains discussions and resources related to Zoonk's design pro
 Please, [open an issue](https://github.com/zoonk/design/issues/new) to start a
 new discussion, for pointing out problems, or making suggestions.
 
-We [praise openness and transparency](https://github.com/zoonk/management#our-values).
+We [praise openness and transparency](https://github.com/zoonk/culture#our-values).
 For that reason, we prefer all discussions to be publicly available. However,
 feel free to [email us](mailto:support@zoonk.org) if you prefer to do so.
 
