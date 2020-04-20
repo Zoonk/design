@@ -4,6 +4,10 @@ You can find here all visual identity resources available for Zoonk. Please,
 feel free to [open an issue](https://github.com/zoonk/design/issues/new) to
 discuss improvements or for making suggestions.
 
+## Logo
+
+![logo](logo.svg)
+
 ## Colors
 
 - **Primary**: ![#2196F3](https://placehold.it/15/2196F3/000000?text=+) `#2196F3`
